@@ -1,6 +1,6 @@
-#Build a Markdown Previewer
+# Build a Markdown Previewer
 
-##Objective: Build an app that is functionally similar to this: https://markdown-previewer.freecodecamp.rocks/.
+## Objective: Build an app that is functionally similar to this: https://markdown-previewer.freecodecamp.rocks/.
 
 > User Story #1: I can see a textarea element with a corresponding id="editor".
 
