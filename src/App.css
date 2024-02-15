@@ -1,0 +1,42 @@
+body {
+  background-color: #52796f;
+}
+.screen {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.toolbar {
+  background-color: #354f52;
+  padding: 0 10px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+}
+.toolbar > p {
+  font-weight: 800;
+  font-family: monospace;
+  font-size: 1.2em;
+  margin-left: 10px;
+}
+.content {
+  border: 1.5px solid black;
+  width: 46vw;
+  height: 95vh;
+  background-color: #84a98c;
+  box-shadow: 1px 1px 10px 2px #3a5f5f;
+}
+.editor {
+  margin-left: 20px;
+}
+.viewer {
+  margin-right: 20px;
+}
+#editor {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  width: 100%;
+  height: 90%;
+  padding: 5px;
+}
