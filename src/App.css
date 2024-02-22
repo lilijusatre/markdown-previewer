@@ -23,7 +23,7 @@ body {
 .content {
   border: 1.5px solid black;
   width: 45vw;
-  height: 95vh;
+  height: 93vh;
   background-color: #84a98c;
   box-shadow: 1px 1px 10px 2px #3a5f5f;
 }
@@ -44,7 +44,7 @@ body {
 }
 .previewMarkdown {
   padding: 0;
-  max-height: 90vh;
+  max-height: 88vh;
   overflow: auto;
   padding: 0 12px;
 }
